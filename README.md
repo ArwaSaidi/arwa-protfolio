@@ -47,7 +47,7 @@ This website showcases:
 
 ## 📬 Contact
 
-- 📧 Email: arwa@example.com  
+- 📧 Email: arwasaidi2024@gmail.com  
 - 💼 GitHub: [ArwaSaidi](https://github.com/ArwaSaidi)  
 - 🌍 Location: Algeria  
 
